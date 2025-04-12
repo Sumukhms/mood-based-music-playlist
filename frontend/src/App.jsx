@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import './styles/App.css';
 import Navbar from '../components/Navbar';
@@ -29,3 +30,4 @@ function App() {
 }
 
 export default App;
+
